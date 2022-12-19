@@ -26,16 +26,14 @@ git clone https://github.com/lotacodic/animalKingdom.git
  - Abstraction 
     - Made `class Animals` as `base class`
     - Lines 10 restrict the instantiation of the base class
-  
-  Test for abstraction 
-  1. uncomment line 52 
-  2. run the command `node animal_kingdom.js` again
-  3. It throws an error
-  4. abstraction confirmed 
+    - uncomment line 52 
+    - run the command `node animal_kingdom.js` again
+    - It throws an error
+    - abstraction confirmed 
 
   
   - Polymorphism
-    - All 6 extended classes `modified` the features() methods inherited from the base class, thus, polymorphism is confirmed 
+    - All 6 extended classes `modified` the features() methods inherited from the base class, thus, polymorphism is     confirmed 
   
   - Encapsulation 
     - For encapsulation check line 33 and 39
