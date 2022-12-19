@@ -19,12 +19,12 @@ git clone https://github.com/lotacodic/animalKingdom.git
 
   <img src="/image\Screenshot (219).png">
 
-# How it works, tests for OOP principles and tweaks 
+# How it Works, Tests for OOP
 - Inheritance 
   - Creating the 6 classes of animal kingdom using the `extends` keyword is enough proof that inheritance is confirmed
  
  - Abstraction 
-    - Made `class Animal_Kingdom` as `base class`
+    - Made `class Animals` as `base class`
     - Lines 10 restrict the instantiation of the base class
   
   Test for abstraction 
